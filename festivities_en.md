@@ -8,7 +8,7 @@ Here you can read about when the wedding is, where it is and how we will celebra
 
 # When is the wedding?
 - The wedding happens 2022-07-30, so book it now in your calenders.
-- The schedule for the wedding is to be decided, right now, when you need to have arrived is: 14:30 (CET).
+- The schedule for the wedding is to be decided, right now, when you need to have arrived is: 14:30 (CET) and that it will include a beautiful cermony, delicious food and an open bar.
 ```
 14:30: Everyone has arrived.
 14:30-03:00 To be decided.
@@ -33,6 +33,6 @@ Suggestions for hotells:
 - yyy
 - zzz
 
-# How?!
+# How to dress?
 What's important is that you come, not what you wear.
-If you want to be fancy, you should, but we love you however you come.
+If you want to be fancy, you should, but we love you just for coming.
