@@ -8,7 +8,7 @@ subtitle: Let us know if you will come!
 - Please respond by 2022, January 31st. There's a lot of things to organize, so don't forget to respond before then.
 - Let us know if you will attend by e-mailing us at magnusandmyriam@gmail.com, [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[RSVP for the wedding]).
 
-Here's what we need to know from you:
+Here's what we need to know from you.
 - If you will attend :)
 - Who will attend
 - If you have any specific allergies we need to know about
@@ -18,4 +18,4 @@ Here's what we need to know from you:
 Ofcourse we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
 Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
 
-Reach out to us if you cannot arrange to come without children.
+Call us if you cannot arrange to come without children.
