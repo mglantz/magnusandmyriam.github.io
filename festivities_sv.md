@@ -19,7 +19,7 @@ Här kan du läsa om när bröllopet är, vart det är och hur det kommer firas.
 Bröllopet kommer att firas på Magnus familjs gård, Brunnsta Gård, en liten bit norr om Stockholm.
 
 ![Brunnsta gård](assets/img/brunnstagard_overview.jpg)
- H
+
 - Vi är jätteglada att kunna bjuda in er till en intim svensk gård, där vi kommer fira tillsammans.
 - Brunnsta gård ligger i Brunnsta, 35 minuter från Arlanda flygplats och 45 minuter från Stockholm centralstation.
 - Ta en till på vart det ligger på Google maps, här: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
