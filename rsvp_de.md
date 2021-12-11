@@ -8,7 +8,7 @@ Bitte lese alle Infos auf dieser Seite (insbesondere zu Corona), bevor Du uns Be
 
 # RSVP
 - Bitte um Antwort bis zum 31. Januar 2022. Es gibt viel zu organisieren, daher nicht vergessen, uns bis zum obigen Datum Bescheid zu geben.
-- Schreib uns per E-mail an magnusandmyriam@gmail.com, ob Du bei unserer Hochzeit dabei sein kannst: [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[Hochzeit]).
+- Schreib uns per E-mail an magnusandmyriam@gmail.com, ob Du bei unserer Hochzeit dabei sein kannst: [klicke hier, um uns zu emailen](mailto:magnusandmyriam@gmail.com?subject=[Hochzeit]).
 
 Was wir von Dir wissen möchten.
 - Ob Du zur Hochzeit kommst :)
