@@ -33,6 +33,11 @@ Suggestions for hotells:
 - yyy
 - zzz
 
+We are going to arrange a shuttle bus which will drive you home, if you stay at one of these hotels:
+- xxx
+- yyy
+- zzz
+
 # How (to dress)?
 What's important is that you come, not what you wear.
 If you want to be fancy, you should, but we love you just for coming.

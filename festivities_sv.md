@@ -33,6 +33,11 @@ Förslag på hotell:
 - yyy
 - zzz
 
+Vi kommer att ordna en buss som kommer lämnar av er på hotellet efter festen, om ni bor på något av dess hotell:
+- xxx
+- yyy
+- zzz
+
 # Hur (ska man klä sig)?
 Det viktigaste är att du kommer, inte vad du har på dig.
 Om du vill klä dig fint tycker vi du ska göra det, men vi älskar dig bara för att du kommer som du är.
