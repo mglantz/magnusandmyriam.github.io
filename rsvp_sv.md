@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: RSVP
+subtitle: Let us know if you will come!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# RSVP
+- Please respond by 2022, January 31st. There's a lot of things to organize, so don't forget to respond before then.
+- Let us know if you will attend by e-mailing us at magnusandmyriam@gmail.com, [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[RSVP for the wedding]).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here's what we need to know from you.
+- If you will attend :)
+- Who will attend
+- If you have any specific allergies we need to know about
+- If you plan to stay on location before or after the wedding and if so - for how long you will stay.
 
-What else do you need?
+# Children
+Ofcourse we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
+Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Call us if you cannot arrange to come without children.
