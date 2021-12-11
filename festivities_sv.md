@@ -1,38 +1,38 @@
 ---
 layout: page
 title: Festivities
-subtitle: When, where and how!
+subtitle: När, vart och hur!
 ---
 
-Here you can read about when the wedding is, where it is and how we will celebrate.
+Här kan du läsa om när bröllopet är, vart det är och hur det kommer firas.
 
-# When is the wedding?
-- The wedding happens 2022-07-30, so book it now in your calenders.
-- The schedule for the wedding is to be decided, right now, when you need to have arrived is: 14:30 (CET) and that it will include a beautiful cermony, delicious food and an open bar.
+# När är bröllopet?
+- Bröllopet sker 2022-07-30, så boka in det nu i era kalendrar.
+- Schemat är inte helt bestämt ännu, men bestämt är att ni behöver anlända senast 14:30, att bröllopet kommer inkludera en vacker cermoni, jättegod mat och en öppen bar.
 ```
-14:30: Everyone has arrived.
-14:30-03:00 To be decided.
-03:00: The last party animals go off to bed.
+14:30: Alla har anlänt.
+14:30-03:00 Kommer bestämmas senare.
+03:00: De sista festprissarna drar sig iväg till sängs.
 ```
 
-# Where is the wedding?
-The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm, in Sweden```.
+# Vart är bröllopet?
+Bröllopet kommer att firas på Magnus familjs gård, Brunnsta Gård, en liten bit norr om Stockholm.
 
 ![Brunnsta gård](assets/img/brunnstagard_overview.jpg)
-
-- We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
-- Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
-- Look at the location on Google maps, here: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
+ H
+- Vi är jätteglada att kunna bjuda in er till en intim svensk gård, där vi kommer fira tillsammans.
+- Brunnsta gård ligger i Brunnsta, 35 minuter från Arlanda flygplats och 45 minuter från Stockholm centralstation.
+- Ta en till på vart det ligger på Google maps, här: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
 
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
-# Hotels and stayover
-Most of the guests will have to check into a hotel.
-Suggestions for hotells:
+# Hotell och övernattning
+Många gäster kommer att behöva checka in på ett hotell.
+Förslag på hotell:
 - xxx
 - yyy
 - zzz
 
-# How (to dress)?
-What's important is that you come, not what you wear.
-If you want to be fancy, you should, but we love you just for coming.
+# Hur (ska man klä sig)?
+Det viktigaste är att du kommer, inte vad du har på dig.
+Om du vill klä dig fint tycker vi du ska göra det, men vi älskar dig bara för att du kommer som du är.

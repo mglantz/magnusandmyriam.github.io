@@ -1,21 +1,21 @@
 ---
 layout: page
 title: RSVP
-subtitle: Let us know if you will come!
+subtitle: Låt oss veta om du kan komma!
 ---
 
 # RSVP
-- Please respond by 2022, January 31st. There's a lot of things to organize, so don't forget to respond before then.
-- Let us know if you will attend by e-mailing us at magnusandmyriam@gmail.com, [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[RSVP for the wedding]).
+- Svara innan Januari 31:a, 2022. Det finns mycket att organisera, så glöm inte att svara innan dess.
+- Låt oss veta om du kommer genom att eposta oss på magnusandmyriam@gmail.com, [du kan klicka på denna länken för att e-posta oss](mailto:magnusandmyriam@gmail.com?subject=[RSVP för bröllopet]).
 
-Here's what we need to know from you.
-- If you will attend :)
-- Who will attend
-- If you have any specific allergies we need to know about
-- If you plan to stay on location before or after the wedding and if so - for how long you will stay.
+Här är vad vi behöver veta när du svarar
+- Om ni kommer att komma :)
+- Vem som kommer
+- Om ni har speciella allergier (mat, dryck, annat) som vi behöver veta om
+- Om ni planerar att stanna på plats före eller efter bröllopet och om så - hur länge stannar ni.
 
-# Children
-Ofcourse we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
-Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
+# Barn
+Givetvis så vill vi att alla våra vänner och familj ska kunna komma till bröllopet, men den bistra verkligheten är att det finns begränsad med kapacitet.
+Även så vill vi kunna fira tillsammans med er till sent på natten. På grund av det, så ber vi er att bara ta med barn om ni måste. Vi hoppas ni förstår.
 
-Call us if you cannot arrange to come without children.
+Ring oss om ni inte kan arrangera att komma utan barn.
