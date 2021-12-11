@@ -8,19 +8,17 @@ Here you can read about when the wedding is, where it is and how we will celebra
 
 # When is the wedding?
 - The wedding happens 2022-07-30, so book it now in your calenders.
-- The schedule for the wedding is:
+- The schedule for the wedding is to be decided, right now, when you need to have arrived is: 14:30 (CET).
 ```
-13:00-14:00: Arrive at the location. 
-14:00-15:00: Welcome drinks and snacks
-16:00-17:00: The wedding cermony
-18:00-21:00: Dinner and drinks
-21:00-03:00: Party! :)
+14:30: Everyone has arrived.
+14:30-03:00 To be decided.
+03:00: The last party animals go off to bed.
 ```
 
 # Where is the wedding?
 We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
 
-![Brunnsta gård](assets/img/brunnstagard.jpg)
+![Brunnsta gård](assets/img/brunnstagard_overview.jpg)
 
 - The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm```.
 - Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
