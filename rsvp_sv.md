@@ -5,7 +5,7 @@ subtitle: Låt oss veta om du kan komma!
 ---
 
 # RSVP
-- Svara innan Januari 31:a, 2022. Det finns mycket att organisera, så glöm inte att svara innan dess.
+- Svara innan Januari 31:e, 2022. Det finns mycket att organisera, så glöm inte att svara innan dess.
 - Låt oss veta om du kommer genom att eposta oss på magnusandmyriam@gmail.com, [du kan klicka på denna länken för att e-posta oss](mailto:magnusandmyriam@gmail.com?subject=[RSVP för bröllopet]).
 
 Här är vad vi behöver veta när du svarar
