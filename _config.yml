@@ -14,13 +14,13 @@ author: Myriam and Magnus
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  English instructions:
+  Information in English:
     - Festivities: "festivities_en"
     - RSVP: "rsvp_en"
-  Deutsche Anweisungen:
+  Information auf Deutsch:
     - Feierlichkeiten: "festivities_de"
     - RSVP: "rsvp_de"
-  Svenska instruktioner:
+  Information på Svenska:
     - Festligheterna: "festivities_sv"
     - RSVP: "rsvp_sv"
 
