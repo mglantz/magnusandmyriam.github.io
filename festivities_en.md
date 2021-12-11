@@ -16,13 +16,13 @@ Here you can read about when the wedding is, where it is and how we will celebra
 ```
 
 # Where is the wedding?
-We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
+The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm, in Sweden```.
 
 ![Brunnsta gård](assets/img/brunnstagard_overview.jpg)
 
-- The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm```.
+- We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
 - Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
-- Find it on Google maps, here: https://goo.gl/maps/eZr5uCdtZGmvyNR56
+- Look at the location on Google maps, here: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
 
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
@@ -33,6 +33,6 @@ Suggestions for hotells:
 - yyy
 - zzz
 
-# How to dress?
+# How (to dress)?
 What's important is that you come, not what you wear.
 If you want to be fancy, you should, but we love you just for coming.
