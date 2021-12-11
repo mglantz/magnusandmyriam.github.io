@@ -19,3 +19,13 @@ Givetvis så vill vi att alla våra vänner och familj ska kunna komma till brö
 Även så vill vi kunna fira tillsammans med er till sent på natten. På grund av det, så ber vi er att bara ta med barn om ni måste. Vi hoppas ni förstår.
 
 Ring oss om ni inte kan arrangera att komma utan barn.
+
+# Corona
+Vi vill kunna fira säkert och enligt Svenska regler.
+Vi förväntar oss att alla som är på bröllopet är vaccinerade OCH har testat sig max 3 dagar innan bröllopet.
+
+Snabbtester kommer finnas tillgängliga på plats.
+
+## OBSERVERA
+Gällande regler i Sverige säger att om du har ett event för över 100 personer (det inkluderar vårt bröllop) så måste alla över 18 års ålder ha vaccinationsbevis för att få delta.
+

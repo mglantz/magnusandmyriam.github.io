@@ -19,3 +19,11 @@ Ofcourse we would want all friends and family to be able to come to our wedding,
 Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
 
 Call us if you cannot arrange to come without children.
+
+# Corona
+We want to ensure that we can celebrate safely and in alignment with regulations in Sweden.
+We expect everyone attending to be vaccinated AND tested maximum 3 days before the wedding.
+Quick tests will be available on-site.
+
+## ATTENTION
+Current rules in Sweden is that for events over 100 people (that includes our wedding) everyone over the age of 18 needs to have proof of vaccination to attend.
