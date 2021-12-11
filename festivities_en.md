@@ -20,9 +20,13 @@ Here you can read about when the wedding is, where it is and how we will celebra
 # Where is the wedding?
 We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
 
+![Brunnsta gård](http://magnusandmyriam.com/assets/img/brunnstagard_overview.jpg)
+
 - The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm```.
 - Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
 - Find it on Google maps, here: https://goo.gl/maps/eZr5uCdtZGmvyNR56
+
+![Brunnsta gård restaurant](http://magnusandmyriam.com/assets/img/brunnstagard.jpg)
 
 # Hotels and stayover
 Most of the guests will have to check into a hotel.
