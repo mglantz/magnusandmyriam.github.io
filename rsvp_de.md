@@ -1,21 +1,33 @@
 ---
 layout: page
 title: RSVP
-subtitle: Let us know if you will come!
+subtitle: Sag uns Bescheid, ob Du kommst
 ---
 
+Bitte lese alle Infos auf dieser Seite (insbesondere zu Corona), bevor Du uns Bescheid gibt’s, ob Du zur Hochzeit kommen kannst.
+
 # RSVP
-- Please respond by 2022, January 31st. There's a lot of things to organize, so don't forget to respond before then.
-- Let us know if you will attend by e-mailing us at magnusandmyriam@gmail.com, [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[RSVP for the wedding]).
+- Bitte um Antwort bis zum 31. Januar 2022. Es gibt viel zu organisieren, daher nicht vergessen, uns bis zum obigen Datum Bescheid zu geben.
+- Schreib uns per E-mail an magnusandmyriam@gmail.com, ob Du bei unserer Hochzeit dabei sein kannst: [click this link to email us](mailto:magnusandmyriam@gmail.com?subject=[Hochzeit]).
 
-Here's what we need to know from you.
-- If you will attend :)
-- Who will attend
-- If you have any specific allergies we need to know about
-- If you plan to stay on location before or after the wedding and if so - for how long you will stay.
+Was wir von Dir wissen möchten.
+- Ob Du zur Hochzeit kommst :)
+- Wer mit Dir kommt
+- Ob Du Vegetarier oder Veganer bist
+- Ob Du irgendwelche Allergien hast (Essen, Trinken, andere), die wir berücksichtigen müssen
+- Ob Du planst länger vor Ort zu bleiben, vor oder nach der Hochzeit, und wenn ja – wie lange Du planst zu bleiben. Wir helfen gerne mit Tips!
 
-# Children
-Ofcourse we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
-Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
+# Kinder
+Natürlich würden wir gerne mit allen Freunden und der ganzen Familie feiern, aber die harte Realität ist, dass der Platz in der Lokalität begrenzt ist.
 
-Call us if you cannot arrange to come without children.
+Zudem wollen wir mit Dir bis spät in die Nacht feiern. Daher bitten wir Dich Deine Kinder, wenn möglich, anderweitig für die Reise zur Hochzeit unterzubringen. Wir hoffen auf Dein Verständnis.
+
+Rufe uns an, falls Du Deine Kinder mitbringen möchtest.
+
+# Corona
+Wir wollen sicherstellen, dass wir sicher und in Übereinstimmung mit den Vorschriften in Schweden feiern können. Wir erwarten daher, dass jeder Gast geimpft UND getestet ist - maximal 3 Tage vor der Hochzeit. Schnelltests werden vor Ort verfügbar sein.
+
+## Achtung
+Derzeit gilt in Schweden für Veranstaltungen mit mehr als 100 Teilnehmern (dazu gehört auch unsere Hochzeit), dass jeder Teilnehmer über 18 Jahre einen Impfnachweis und Ausweis vorzeigen muss.
+
+Wir werden hier bei Änderungen der Regeln eine Aktualisierung vor der Hochzeit melden.

@@ -33,7 +33,7 @@ Suggestions for hotells:
 - yyy
 - zzz
 
-```If you stay at one of the suggested hotells, we will  arrange a shuttle bus to drive you home.```
+```We plan to arrange for a shuttle bus to drive you home, if you stay at one of the recommended hotels.```
 
 # How (to dress)?
 What's important is that you come, not what you wear.

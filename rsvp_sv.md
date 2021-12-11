@@ -28,5 +28,6 @@ Vi förväntar oss att alla som är på bröllopet är vaccinerade OCH har testa
 Snabbtester kommer finnas tillgängliga på plats.
 
 ## OBSERVERA
-Gällande regler i Sverige säger att om du har ett event för över 100 personer (det inkluderar vårt bröllop) så måste alla över 18 års ålder ha vaccinationsbevis för att få delta.
+Gällande regler i Sverige säger att om du har ett event för över 100 personer (det inkluderar vårt bröllop) så måste alla över 18 års ålder ha vaccinationsbevis och giltigt ID för att få delta.
 
+Vi kommer uppdatera informationen här om reglerna i Sverige ändras.

@@ -1,38 +1,38 @@
 ---
 layout: page
-title: Festivities
-subtitle: When, where and how!
+title: Festlichkeiten
+subtitle: Wann, wo und was!
 ---
 
-Here you can read about when the wedding is, where it is and how we will celebrate.
+Hier findest Du Infos dazu, wann die Hochzeit stattfindet, wo und wie wir feiern werden.
 
-# When is the wedding?
-- The wedding happens 2022-07-30, so book it now in your calenders.
-- The schedule for the wedding is to be decided, right now, when you need to have arrived is: 14:30 (CET) and that it will include a beautiful cermony, delicious food and an open bar.
+# Wann findet die Hochzeit statt?
+- Die Hochzeit ist am 30. Juli 2022, also schnell im Kalendar eintragen.
+- Der genaue Zeitplan für den Tag ist noch in der Planung. Fest steht schon, dass die Festlichkeiten um 14:30 Uhr beginnen werden. Geplant sind eine herzliche Hochzeitszeremonie, leckeres Essen, Bar und Tanz bis in die Nacht.
 ```
-14:30: Everyone has arrived.
-14:30-03:00 To be decided.
-03:00: The last party animals go off to bed.
+14:30: Start der Festlichkeiten
+14:30-03:00 Details noch in der Planung
+03:00: Die letzten Partytiger gehen ins Bett
 ```
 
-# Where is the wedding?
-The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm, in Sweden```.
+# Wo findet die Hochzeit statt?
+Die Hochzeit feiern wir auf Brunnsta Gård, der Farm von Magnus’ Familie ```nördlich von Stockholm in Schweden```.
 
 ![Brunnsta gård](assets/img/brunnstagard_overview.jpg)
 
-- We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
-- Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
-- Look at the location on Google maps, here: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
+- Wir freuen uns, Euch auf einen gemütlichen, traditionell schwedischen Bauernhof einzuladen, um dort gemeinsam zu feiern.
+- Brunnsta Gård liegt in Brunnsta, 35 Minuten Autofahrt von Arlanda (Stockholm) Flughafen und 45 Minuten Autofahrt vom Hauptbahnhof in Stockholm.
+- Link zum Standort auf Google maps: [https://goo.gl/maps/eZr5uCdtZGmvyNR56](https://goo.gl/maps/eZr5uCdtZGmvyNR56)
 
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
-# Hotels and stayover
-Most of the guests will have to check into a hotel.
-Suggestions for hotells:
+# Hotels und Übernachtung
+Es sind ein paar Zimmer zum Übernachten auf Brunnsta Gård verfügbar aber die meisten Gäste werden in einem der Hotels in der Nähe übernachten müssen. Empfehlungen für Hotels:
 - xxx
 - yyy
 - zzz
 
-# How (to dress)?
-What's important is that you come, not what you wear.
-If you want to be fancy, you should, but we love you just for coming.
+```Wir planen einen Shuttle Service zu organisieren, damit Du solange wie möglich mit uns feiern kannst.```
+
+# Was (anziehen)?
+Es ist uns am wichtigsten, dass Du kommst, nicht so sehr was Du anhast. Wenn Du Dich schick machen möchtest, dann kannst Du das gerne machen, aber wir lieben Dich auch einfach dafür, dass Du kommst und mit uns feierst.

@@ -33,7 +33,7 @@ Förslag på hotell:
 - yyy
 - zzz
 
-```Om du bor på ett av de föreslagna hotellen så kommer vi ordna med en buss som kör dig hem efter firandet!```
+```Om du bor på ett av de föreslagna hotellen så kommer vi försöka ordna med en buss som kör dig hem efter firandet!```
 
 # Hur (ska man klä sig)?
 Det viktigaste är att du kommer, inte vad du har på dig.
