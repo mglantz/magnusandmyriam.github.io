@@ -27,7 +27,7 @@ Die Hochzeit feiern wir auf Brunnsta Gård, der Farm von Magnus’ Familie ```n�
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
 # Hotels und Übernachtung
-Es sind ein paar Zimmer zum Übernachten auf Brunnsta Gård verfügbar aber die meisten Gäste werden in einem der Hotels in der Nähe übernachten müssen. Empfehlungen für Hotels:
+Die meisten Gäste werden in einem der Hotels in der Nähe übernachten müssen. Empfehlungen für Hotels:
 - xxx
 - yyy
 - zzz

@@ -18,7 +18,7 @@ Here's what we need to know from you.
 - If you plan to stay on location before or after the wedding and if so - for how long you will stay.
 
 # Children
-Ofcourse we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
+Of course we would want all friends and family to be able to come to our wedding, but the harsh reality is that the location has limited capacity.
 Also, we want you to be able to celebrate together with us late into the night. Because of this, we ask you to only bring children if you have to. We hope you understand.
 
 Call us if you cannot arrange to come without children.
@@ -29,6 +29,6 @@ We expect everyone attending to be vaccinated AND tested maximum 3 days before t
 Quick tests will be available on-site.
 
 ## ATTENTION
-Current rules in Sweden is that for events over 100 people (that includes our wedding) everyone OVER the age of 18 needs to have proof of vaccination and a valid ID to attend.
+Current rules in Sweden are that for events over 100 people (that includes our wedding) everyone OVER the age of 18 needs to have proof of vaccination and a valid ID to attend.
 
 We will update the information here if the rules in Sweden changes.
