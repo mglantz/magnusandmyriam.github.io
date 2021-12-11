@@ -1,16 +1,36 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Festivities
+subtitle: When, where and how!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Here you can read about when the wedding is, where it is and how we will celebrate.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# When is the wedding?
+- The wedding happens 2022-07-30, so book it now in your calenders.
+- The schedule for the wedding is:
+```
+13:00-14:00: Arrive at the location. 
+14:00-15:00: Welcome drinks and snacks
+16:00-17:00: The wedding cermony
+18:00-21:00: Dinner and drinks
+21:00-03:00: Party! :)
+```
 
-What else do you need?
+# Where is the wedding?
+We are thrilled to invite you to an intimite and traditional Swedish farm, where we will celebrate together.
 
-### My story
+- The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm```.
+- Brunnsta Gård is located in Brunnsta, 35 minutes from Arlanda (Stockholm) airport and 45 minutes from Stockholm central station.
+- Find it on Google maps, here: https://goo.gl/maps/eZr5uCdtZGmvyNR56
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Hotels and stayover
+Most of the guests will have to check into a hotel.
+Suggestions for hotells:
+- xxx
+- yyy
+- zzz
+
+# How?!
+What's important is that you come, not what you wear.
+If you want to be fancy, you should, but we love you however you come.
