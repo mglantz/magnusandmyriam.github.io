@@ -11,6 +11,7 @@ subtitle: Låt oss veta om du kan komma!
 Här är vad vi behöver veta när du svarar
 - Om ni kommer att komma :)
 - Vem som kommer
+- Om ni är vegetarian eller vegan
 - Om ni har speciella allergier (mat, dryck, annat) som vi behöver veta om
 - Om ni planerar att stanna på plats före eller efter bröllopet och om så - hur länge stannar ni.
 

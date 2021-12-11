@@ -11,6 +11,7 @@ subtitle: Let us know if you will come!
 Here's what we need to know from you.
 - If you will attend :)
 - Who will attend
+- If you are vegetarian or vegan
 - If you have any specific allergies (food, drinks, other) we need to know about
 - If you plan to stay on location before or after the wedding and if so - for how long you will stay.
 
