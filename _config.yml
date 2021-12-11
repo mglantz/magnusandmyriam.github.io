@@ -6,28 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: Magnus and Myriam's Wedding!
-
-
-url: http://www.magnusandmyriam.com
-
+title: My Website
 
 # Your name to show in the footer
-author: Magnus and Myriam
+author: Some Person
 
-# Languages
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  English:
-    - Festivities: festivities_en
-    - RSVP: rspv_en
-  Deutsch:
-    - Festivities: festivities_de
-    - RSVP: rsvp_de
-  Svenska: 
-    - Festligheter: festivities_sv
-    - RSVP: rsvp_sv
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -47,9 +39,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "open.grieves@gmail.com"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: magnusgunnar
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -77,14 +73,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.magnusandmyriam.com"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -216,7 +212,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Stockholm"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
