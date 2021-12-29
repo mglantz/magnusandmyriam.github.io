@@ -28,9 +28,7 @@ Die Hochzeit feiern wir auf Brunnsta Gård, der Farm von Magnus’ Familie ```n�
 
 # Hotels und Übernachtung
 Die meisten Gäste werden in einem der Hotels in der Nähe übernachten müssen. Empfehlungen für Hotels:
-- xxx
-- yyy
-- zzz
+- Wir werden Anfang Januar ein paar Optionen online stellen
 
 ```Wir planen einen Shuttle Service zu organisieren, damit Du solange wie möglich mit uns feiern kannst.```
 
