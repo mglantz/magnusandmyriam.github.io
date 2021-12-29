@@ -28,10 +28,7 @@ The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of S
 
 # Hotels and stayover
 Most of the guests will have to check into a hotel.
-Suggestions for hotells:
-- xxx
-- yyy
-- zzz
+- We will publish suggestions for hotels within the next couple of weeks
 
 ```We plan to arrange for a shuttle bus to drive you home, if you stay at one of the recommended hotels.```
 

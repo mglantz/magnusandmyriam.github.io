@@ -28,10 +28,7 @@ Bröllopet kommer att firas på Magnus familjs gård, Brunnsta Gård, en liten b
 
 # Hotell och övernattning
 Många gäster kommer att behöva checka in på ett hotell.
-Förslag på hotell:
-- xxx
-- yyy
-- zzz
+- Vi kommer inom de kommande veckorna att lägga upp rekommenderade hotel 
 
 ```Om du bor på ett av de föreslagna hotellen så kommer vi försöka ordna med en buss som kör dig hem efter firandet!```
 
