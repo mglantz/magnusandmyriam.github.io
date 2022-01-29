@@ -30,12 +30,14 @@ Bröllopet kommer att firas på Magnus familjs gård, Brunnsta Gård, en liten b
 De flesta av gästerna kommer behöva checka in på ett hotel, ett begränsat antal gäster kommer få möjligheten att kunna boka ett rum på gården.
 
 * Vi rekommenderar att du bokat boende på hotellet nedan, som vi arrangerat ett rabatt med:
+```
 Welcome Hotel i Barkarby / Welcome SPA / Wärdshuset Lasse Maja Konferens & Fest
 Notarievägen 5
 177 46 JÄRFÄLLA
 Växel: +46 (0)8 621 61 00
-Boka rum via denna webbsida: https://www.welcomehotel.se/en
-Använd rabattkod: mmwedding
+```
+- Boka rum via denna webbsida: https://www.welcomehotel.se/en
+- Använd rabattkod: mmwedding
 
 ```Vi planerar att arrangerar en buss som kör er till och från Welcome Hotel i Barkarby, om du stannar på annanstans behöver du själv arrangera transport.```
 

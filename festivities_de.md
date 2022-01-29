@@ -35,13 +35,14 @@ Wir haben die ca. 20 Betten vor Ort reserviert. Buchung geht nur über uns - ged
 
 Hotelempfehlung und Rabatt-Code:.
 Wir haben einen Rabatt Code organisiert für das Welcome Hotel in Barkarby, ca. 30 Minuten von Brunnsta Gård. Das Hotel liegt auf halben Weg nach Stockholm und ist daher auch geeignet, falls jemand ein paar extra Tage in Stockholm dranhängen möchte. Bitte bucht die Zimmer direkt über das Hotel. Es sind verschieded Zimmergrössen verfügbar.
-
+```
 Welcome Hotel in Barkarby / Welcome SPA
 Notarievägen 5
 177 46 JÄRFÄLLA
 Telefon: +46 (0)8 621 61 00
-Website: https://www.welcomehotel.se/en
-Discount Code: mmwedding
+```
+- Website: https://www.welcomehotel.se/en
+- Discount Code: mmwedding
 
 ```Wir planen einen Shuttle Service zu organisieren, der Euch vom Welcome Hotel abholt und zu bestimmten Zeiten wieder ins Hotel bringt. Falls Ihr Euch für eine andere Unterkunft entscheidet, müsstet Ihr den Transport selber z.B. mit Taxi organiseren.```
 
