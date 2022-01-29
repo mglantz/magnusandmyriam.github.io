@@ -36,7 +36,7 @@ Notarievägen 5
 177 46 JÄRFÄLLA
 Växel: +46 (0)8 621 61 00
 ```
-- Boka rum via denna webbsida: https://www.welcomehotel.se/en
+- Boka rum via denna webbsida: [https://www.welcomehotel.se](https://www.welcomehotel.se)
 - Använd rabattkod: mmwedding
 
 ```Vi planerar att arrangerar en buss som kör er till och från Welcome Hotel i Barkarby, om du stannar på annanstans behöver du själv arrangera transport.```

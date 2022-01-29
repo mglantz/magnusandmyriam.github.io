@@ -41,7 +41,7 @@ Notarievägen 5
 177 46 JÄRFÄLLA
 Telefon: +46 (0)8 621 61 00
 ```
-- Website: https://www.welcomehotel.se/en
+- Website: [https://www.welcomehotel.se/en](https://www.welcomehotel.se/en)
 - Discount Code: mmwedding
 
 ```Wir planen einen Shuttle Service zu organisieren, der Euch vom Welcome Hotel abholt und zu bestimmten Zeiten wieder ins Hotel bringt. Falls Ihr Euch für eine andere Unterkunft entscheidet, müsstet Ihr den Transport selber z.B. mit Taxi organiseren.```
