@@ -27,10 +27,17 @@ Bröllopet kommer att firas på Magnus familjs gård, Brunnsta Gård, en liten b
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
 # Hotell och övernattning
-Många gäster kommer att behöva checka in på ett hotell.
-- Vi kommer inom de kommande veckorna att lägga upp rekommenderade hotel 
+De flesta av gästerna kommer behöva checka in på ett hotel, ett begränsat antal gäster kommer få möjligheten att kunna boka ett rum på gården.
 
-```Om du bor på ett av de föreslagna hotellen så kommer vi försöka ordna med en buss som kör dig hem efter firandet!```
+* Vi rekommenderar att du bokat boende på hotellet nedan, som vi arrangerat ett rabatt med:
+Welcome Hotel i Barkarby / Welcome SPA / Wärdshuset Lasse Maja Konferens & Fest
+Notarievägen 5
+177 46 JÄRFÄLLA
+Växel: +46 (0)8 621 61 00
+Boka rum via denna webbsida: https://www.welcomehotel.se/en
+Använd rabattkod: mmwedding
+
+```Vi planerar att arrangerar en buss som kör er till och från Welcome Hotel i Barkarby, om du stannar på annanstans behöver du själv arrangera transport.```
 
 # Hur (ska man klä sig)?
 Det viktigaste är att du kommer, inte vad du har på dig.

@@ -27,10 +27,17 @@ The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of S
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
 # Hotels and stayover
-Most of the guests will have to check into a hotel.
-- We will publish suggestions for hotels within the next couple of weeks
+Most of the guests will have to check into a hotel, a limited number of guest will be given the ability to book a room at the farm itself.
 
-```We plan to arrange for a shuttle bus to drive you home, if you stay at one of the recommended hotels.```
+* We recommend you book a room at below hotel, with who we have arranged a discount for you:
+Welcome Hotel i Barkarby / Welcome SPA / Wärdshuset Lasse Maja Konferens & Fest
+Notarievägen 5
+177 46 JÄRFÄLLA
+Växel: +46 (0)8 621 61 00
+Book rooms on this website: https://www.welcomehotel.se/en
+Use discount code: mmwedding
+
+```We plan to arrange for a shuttle bus to drive you to and from Welcome Hotel i Barkarby. If you stay elsewhere you need to arrange for transport yourself.```
 
 # How (to dress)?
 What's important is that you come, not what you wear.

@@ -27,10 +27,23 @@ Die Hochzeit feiern wir auf Brunnsta Gård, der Farm von Magnus’ Familie ```n�
 ![Brunnsta gård restaurant](assets/img/brunnstagard.jpg)
 
 # Hotels und Übernachtung
-Die meisten Gäste werden in einem der Hotels in der Nähe übernachten müssen. Empfehlungen für Hotels:
-- Wir werden Anfang Januar ein paar Optionen online stellen
 
-```Wir planen einen Shuttle Service zu organisieren, damit Du solange wie möglich mit uns feiern kannst.```
+Ein paar Gäste können vor Ort auf Brunnsta Gård übernachten, aber die meisten Gäste werden in einem Hotel in der Nähe übernachten müssen. 
+
+Brunnsta Gård:
+Wir haben die ca. 20 Betten vor Ort reserviert. Buchung geht nur über uns - gedacht vorrangig für Familien mit kleinen Kindern. Bei Interesse bitte bei uns melden.
+
+Hotelempfehlung und Rabatt-Code:.
+Wir haben einen Rabatt Code organisiert für das Welcome Hotel in Barkarby, ca. 30 Minuten von Brunnsta Gård. Das Hotel liegt auf halben Weg nach Stockholm und ist daher auch geeignet, falls jemand ein paar extra Tage in Stockholm dranhängen möchte. Bitte bucht die Zimmer direkt über das Hotel. Es sind verschieded Zimmergrössen verfügbar.
+
+Welcome Hotel in Barkarby / Welcome SPA
+Notarievägen 5
+177 46 JÄRFÄLLA
+Telefon: +46 (0)8 621 61 00
+Website: https://www.welcomehotel.se/en
+Discount Code: mmwedding
+
+```Wir planen einen Shuttle Service zu organisieren, der Euch vom Welcome Hotel abholt und zu bestimmten Zeiten wieder ins Hotel bringt. Falls Ihr Euch für eine andere Unterkunft entscheidet, müsstet Ihr den Transport selber z.B. mit Taxi organiseren.```
 
 # Was (anziehen)?
 Es ist uns am wichtigsten, dass Du kommst, nicht so sehr was Du anhast. Wenn Du Dich schick machen möchtest, dann kannst Du das gerne machen, aber wir lieben Dich auch einfach dafür, dass Du kommst und mit uns feierst.
