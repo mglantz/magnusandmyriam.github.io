@@ -7,7 +7,7 @@ subtitle: Sag uns Bescheid, ob Du kommst
 Bitte lese alle Infos auf dieser Seite (insbesondere zu Corona), bevor Du uns Bescheid gibt’s, ob Du zur Hochzeit kommen kannst.
 
 # RSVP
-- Bitte um Antwort bis zum 31. Januar 2022. Es gibt viel zu organisieren, daher nicht vergessen, uns bis zum obigen Datum Bescheid zu geben.
+- Bitte um Antwort bis zum 31. Marsch 2022. Es gibt viel zu organisieren, daher nicht vergessen, uns bis zum obigen Datum Bescheid zu geben.
 - Schreib uns per E-mail an magnusandmyriam@gmail.com, ob Du bei unserer Hochzeit dabei sein kannst: [klicke hier, um uns zu emailen](mailto:magnusandmyriam@gmail.com?subject=[Hochzeit]).
 
 Was wir von Dir wissen möchten.
