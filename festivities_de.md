@@ -11,7 +11,7 @@ Hier findest Du Infos dazu, wann die Hochzeit stattfindet, wo und wie wir feiern
 ## Toastmasters
  Wenn ihr etwas vortragen oder eine Rede halten möchtet, wendet Euch bitte an einen unserer Toastmasters:
 * Carlos (deutsch/englisch/schwedisch): carlos.sedglach@gmail.com, +46730371638
-* Beate Martensen (deutsch)
+* Beate Martensen (deutsch): martensenbeate@web.de, +4915756692642
 
 ## Schuhwerk
 Die Zeremonie wird draussen auf dem Feld stattfinden. Besonders daher ein Hinweis an die Damen, Schuhe mitzubringen, mit denen ihr auf unbefestigtem Boden laufen könnt (ca. 200m vom Hof entfernt).
