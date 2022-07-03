@@ -6,6 +6,27 @@ subtitle: When, where and how!
 
 Here you can read about when the wedding is, where it is and how we will celebrate.
 
+# News
+Important news below.
+
+## Toastmasters
+If you have a speech, contact our toastmasters.
+
+* Carlos (Swedish, English or German): carlos.sedglach@gmail.com, +46730371638
+* Jennie (Swedish, English): jenniehjerp@outlook.com, +46702878403
+
+## Shoes
+The cermony will be outside, so also bring shoes that allow you to walk outside on a field.
+
+## Schedule for the bus
+* 13:45 Bus from Welcome Hotel Barkarby to the wedding
+* 01:00 Bus from the wedding back to Welcome Hotel Barkarby
+* 03:00 Last bus from the wedding back to Welcome Hotel Barkarby
+
+# Gifts
+We already have everything we need. It's plenty that you came.
+If you insist in giving something, we want a cash donation to our honey moon to the Amalfi Coast in Italy which will be end of August. We will use the money to book even more romantic hotels for the trip.
+
 # When is the wedding?
 - The wedding takes place 2022-07-30, so book it now in your calendars.
 - The schedule for the wedding is still being planned. Festivities start at 14:30 (CET) and will include a beautiful ceremony, delicious food and an open bar.
@@ -14,6 +35,11 @@ Here you can read about when the wedding is, where it is and how we will celebra
 14:30-03:00 To be decided.
 03:00: The last party animals go off to bed.
 ```
+
+# Toastmasters - If you have a speech
+Contact our toastmasters if you have a speech.
+* Carlos 
+
 
 # Where is the wedding?
 The wedding will be at Magnus' family's farm, Brunnsta Gård, just ```north of Stockholm, in Sweden```.

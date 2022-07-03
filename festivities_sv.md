@@ -6,6 +6,27 @@ subtitle: När, vart och hur!
 
 Här kan du läsa om när bröllopet är, vart det är och hur det kommer firas.
 
+# News
+Viktiga nyheter nedan.
+
+## Toastmasters
+Om du har ett tal, kontakta vår toastmasters.
+
+* Carlos (Svenska, Engelska eller Tyska): carlos.sedglach@gmail.com, +46730371638
+* Jennie (Svenska, Engelska): jenniehjerp@outlook.com, +46702878403
+
+## Skor
+Vigseln kommer bli utomhus, så ta med skor som tillåter dig att gå på ett fält.
+
+## Schema för bussen.
+* 13:45 Buss från Welcome Hotel Barkarby till bröllopet
+* 01:00 Buss från bröllopet tillbaka till Welcome Hotel Barkarby
+* 03:00 Sista bussen från bröllopet billbaka till Welcome Hotel Barkarby
+
+# Gåvor
+Vi har redan allt vi behöver. Det är alldeles tillräckligt att du kommer.
+Om du insisterar att ge något så vill vi ha pengar som kommer spenderas på vår smekmånad till Amalfikusten i Italien som blir i slutet av Augusti. Vi använder då pengarna till att boka mer romantiska hotell för resan.
+
 # När är bröllopet?
 - Bröllopet sker 2022-07-30, så boka in det nu i era kalendrar.
 - Schemat är inte helt bestämt ännu, men bestämt är att ni behöver anlända senast 14:30, att bröllopet kommer inkludera en vacker cermoni, jättegod mat och en öppen bar.

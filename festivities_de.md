@@ -6,6 +6,25 @@ subtitle: Wann, wo und was!
 
 Hier findest Du Infos dazu, wann die Hochzeit stattfindet, wo und wie wir feiern werden.
 
+# Neueste Infos
+
+## Toastmasters
+ Wenn ihr etwas vortragen oder eine Rede halten möchtet, wendet Euch bitte an einen unserer Toastmasters:
+* Carlos (deutsch/englisch/schwedisch): carlos.sedglach@gmail.com, +46730371638
+* Beate Martensen (deutsch)
+
+## Schuhwerk
+Die Zeremonie wird draussen auf dem Feld stattfinden. Besonders daher ein Hinweis an die Damen, Schuhe mitzubringen, mit denen ihr auf unbefestigtem Boden laufen könnt (ca. 200m vom Hof entfernt).
+
+## Bus vom und zum Hotel
+* 13:45 Bus vom Welcome Hotel Barkarby zur Farm
+* 01:00 Bus von der Farm zum Welcome Hotel Barkarby
+* 03:00 Letzter Bus von der Farm zum Welcome Hotel Barkarby
+
+## Geschenke
+Wir haben alles, was man sich wünschen kann. Es ist schon ein Riesengeschenk, dass ihr kommt!
+Wenn ihr darauf besteht, uns etwas zu schenken, würden wir uns über einen Beitrag zu unserer Hochzeitsreise Ende August an die Amalfiküste freuen. Wir werden den Beitrag nutzen, um extra romantische Hotels zu buchen.
+
 # Wann findet die Hochzeit statt?
 - Die Hochzeit ist am 30. Juli 2022, also schnell im Kalendar eintragen.
 - Der genaue Zeitplan für den Tag ist noch in der Planung. Fest steht schon, dass die Festlichkeiten um 14:30 Uhr beginnen werden. Geplant sind eine herzliche Hochzeitszeremonie, leckeres Essen, Bar und Tanz bis in die Nacht.
